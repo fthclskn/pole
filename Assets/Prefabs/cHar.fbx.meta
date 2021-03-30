@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: be69f78545b18a340ac77b70e4ec64d6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -349526147731115948
+    second: Light|ArmatureAction
+  - first:
+      74: -1016180590865249514
+    second: Light|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: 8133725415080410483
+    second: Light|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: -4819387703870718985
+    second: Light|bodyAction
+  - first:
+      74: -437078509911184173
+    second: Light|CameraAction
+  - first:
+      74: 2054939824189024435
+    second: Light|CircleAction
+  - first:
+      74: -7626363906017909467
+    second: Light|LightAction
+  - first:
+      74: 9178536104519521031
+    second: Light|pole jump
+  - first:
+      74: -9202375945178162989
+    second: Camera|ArmatureAction
+  - first:
+      74: -8661778457944975772
+    second: Camera|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: 3932501472195161505
+    second: Camera|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: -1548433423773457674
+    second: Camera|bodyAction
+  - first:
+      74: 8440248360967096626
+    second: Camera|CameraAction
+  - first:
+      74: -6815075719906170064
+    second: Camera|CircleAction
+  - first:
+      74: -1513925036567710636
+    second: Camera|LightAction
+  - first:
+      74: -4981058391247919759
+    second: Camera|pole jump
+  - first:
+      74: 4781951162920444690
+    second: Armature|ArmatureAction
+  - first:
+      74: 3949184196891408138
+    second: Armature|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: 1836705227683303847
+    second: Armature|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: 9210417563034391495
+    second: Armature|bodyAction
+  - first:
+      74: 4743084820616853705
+    second: Armature|CameraAction
+  - first:
+      74: -459742428196443844
+    second: Armature|CircleAction
+  - first:
+      74: -1900132722527647994
+    second: Armature|LightAction
+  - first:
+      74: 7313580492383466988
+    second: Armature|pole jump
+  - first:
+      74: -8128411026040189092
+    second: body|ArmatureAction
+  - first:
+      74: -1497317429086601370
+    second: body|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: -8777609583846321690
+    second: body|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: -1675024491217397237
+    second: body|bodyAction
+  - first:
+      74: -1037679533009841756
+    second: body|CameraAction
+  - first:
+      74: -4377397566798454202
+    second: body|CircleAction
+  - first:
+      74: 1414120962102642237
+    second: body|LightAction
+  - first:
+      74: -4570583107821698501
+    second: body|pole jump
+  - first:
+      74: 7977514281041721372
+    second: Circle|ArmatureAction
+  - first:
+      74: 4890869259730118697
+    second: Circle|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: 1680964851822991579
+    second: Circle|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: -5106903946031304313
+    second: Circle|bodyAction
+  - first:
+      74: -5921656123777679990
+    second: Circle|CameraAction
+  - first:
+      74: 6997882522552206460
+    second: Circle|CircleAction
+  - first:
+      74: 2873087267925698543
+    second: Circle|LightAction
+  - first:
+      74: -5826971957035583474
+    second: Circle|pole jump
+  - first:
+      74: -960898424075949690
+    second: Armature.001|ArmatureAction
+  - first:
+      74: 5166349318342864478
+    second: Armature.001|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: 4519730171062551184
+    second: Armature.001|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: 2037354972285884364
+    second: Armature.001|bodyAction
+  - first:
+      74: -4664098801458090176
+    second: Armature.001|CameraAction
+  - first:
+      74: -6349806523901295251
+    second: Armature.001|CircleAction
+  - first:
+      74: 8123551830104213099
+    second: Armature.001|LightAction
+  - first:
+      74: 4356757649010378057
+    second: Armature.001|pole jump
+  - first:
+      74: 1466968757616589247
+    second: Armature.001|pole vault
+  - first:
+      74: 1696811608080787114
+    second: Armature.001|pole vault.001
+  - first:
+      74: 5138602965388526686
+    second: Armature.002|Armature.002Action
+  - first:
+      74: -3997514183246978980
+    second: Armature.002|ArmatureAction
+  - first:
+      74: -8044620466351035480
+    second: Armature.002|Armature|Armature|Idle|Armature|Idle
+  - first:
+      74: -735672291192101275
+    second: Armature.002|Armature|Armature|RunningWithPole|Armature|RunningWithPole
+  - first:
+      74: -3211868159492615545
+    second: Armature.002|bodyAction
+  - first:
+      74: -3533366140633557193
+    second: Armature.002|CameraAction
+  - first:
+      74: -7634167741569925198
+    second: Armature.002|CircleAction
+  - first:
+      74: -8601689737981983235
+    second: Armature.002|LightAction
+  - first:
+      74: -8566972263254931733
+    second: Armature.002|pole jump
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
